@@ -1,2 +1,2 @@
 # Projects
-Works for university.
+College work.
